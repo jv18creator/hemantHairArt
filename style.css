@@ -356,7 +356,7 @@ footer {
     .welcome_text span {
         display: block;
         font-size: 1rem;
-        width: 120%;
+        width: 100%;
     }
     .back_image img {
         z-index: -1;
